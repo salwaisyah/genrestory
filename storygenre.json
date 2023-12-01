@@ -1,0 +1,28 @@
+{
+  "result": [
+  {
+    "image": "https://i.ibb.co/VMxP4jW/ic-fantasi.png",
+    "genre": "Fantasy"
+  },
+  {
+    "image": "https://i.ibb.co/tQXKP2V/ic-scifi.png",
+    "genre": "Science Fiction"
+  },
+  {
+    "image": "https://i.ibb.co/vYqW77s/ic-nonfiksi.png",
+    "genre": "NonFiksi"
+  },
+  {
+    "image": "https://i.ibb.co/Q8Pdzs8/ic-misteri.png",
+    "genre": "Misteri"
+  },
+  {
+    "image": "https://i.ibb.co/GCgFbKY/ic-ceritarakyat.png",
+    "genre": "Cerita Rakyat"
+  },
+  {
+    "image": "https://i.ibb.co/Lkw2Gqr/ic-petualangan.png",
+    "genre": "Petualangan"
+  }
+]
+}
